@@ -10,8 +10,6 @@ As a **Computer Science Undergraduate** at NIBM Colombo, I am passionate about *
 - 🏆 Certifications in:
   - [Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3828621C6D1A46FDCE50151602BB405970834CB813DBB8FBF109D38DF4803948)
   - [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/senithnimsara-6701/credentials/a4bb1417e6b00a8b?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- 📧 Reach me at: **[senith2002n@gmail.com](mailto:senith2002n@gmail.com)**
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/senith-nimsara/)
 
 ---
 
@@ -47,6 +45,12 @@ As a **Computer Science Undergraduate** at NIBM Colombo, I am passionate about *
 
 ![Senith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senith02&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senith02&layout=compact&theme=radical)
+
+---
+
+## 📫 Reach Me
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [senith2002n@gmail.com](mailto:senith2002n@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Senith Nimsara](https://www.linkedin.com/in/senith-nimsara/)
 
 ---
 
